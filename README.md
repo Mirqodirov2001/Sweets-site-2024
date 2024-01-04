@@ -1,1 +1,1 @@
-Vue project start project 2024
+Vue project 2024
